@@ -394,13 +394,13 @@ footer {
     padding: 0px;
   }
   .img_three_dot_parent {
-    border: 1px solid red;
     display: block;
   }
 
   /* intro section */
   .intro {
     height: 500px;
+    margin-bottom: 32px;
   }
   .intro_container {
     width: var(--mobileWidth);
@@ -421,6 +421,7 @@ footer {
     font-size: 35px;
     text-align: center;
     font-weight: 400;
+    margin-top: 10px;
   }
   hr {
     height: 1px;
@@ -524,7 +525,7 @@ footer {
   /* footer container */
 
   footer {
-    height: 530px;
+    height: 550px;
     background-color: #e04150;
   }
   .footer_container {
